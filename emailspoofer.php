@@ -24,7 +24,7 @@ exit();
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta http-equiv="X-UA-Compatible" content="ie=edge">
 	<link href="https://fonts.googleapis.com/css?family=Montserrat|Roboto" rel="stylesheet">
-	<link rel="icon" href="https://image.ibb.co/mNLkGK/hak9.png">
+	<link rel="icon" href="https://i.ibb.co/SVcZs6J/icomail.png">
 	<title>Email Spoofer - LeoX</title>
 	<style>
 	body{
